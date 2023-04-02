@@ -12,3 +12,5 @@ Após a realização do scrapping, uma regressão teria que ser feita para preve
 Você pode ver toda a explicação mais aprofundada de como o problema foi resolvido assistindo ao seguinte vídeo:
 
 [![video](https://user-images.githubusercontent.com/56776489/226207746-3fdf6159-932e-4232-886a-c0ada9326800.png)](https://www.youtube.com/watch?v=zMJBsCFN3T4&ab_channel=ASAPSant)
+
+
